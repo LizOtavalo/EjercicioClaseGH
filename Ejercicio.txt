@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+<html>
+<head>
+<title>Ejercicio 2</title>
+</head>
+<body>
+Repositorio
+<h1>Hola :)</h1>
+</body>
+</html>
