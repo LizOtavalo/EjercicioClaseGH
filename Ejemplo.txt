@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <html>
 <head>
 <title>Ejercicio en clase</title>
@@ -7,3 +8,6 @@ BIENVENIDOS a GH
 <h1>Hola</h1>
 </body>
 </html>
+=======
+Este es un ejemplo realizado como colaborador del repositorio ..
+>>>>>>> eb7d89d9c86feb8dd5b787f25bdafebbb91889c7
